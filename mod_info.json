@@ -1,0 +1,11 @@
+{
+	"id":"timid_supply_forging",
+	"name":"Supply Forging",
+	"author":"Techpriest",
+	"utility": "true",
+	"version":"1.0",
+	"description":"Adds an ability that allows you to forge supplies from metal.",
+    "gameVersion":"0.9.1a",
+	"jars":["jars/SupplyForge.jar"],
+    "modPlugin":"data.plugins.SFPlugin",
+}

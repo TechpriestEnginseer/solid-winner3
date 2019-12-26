@@ -1,0 +1,7 @@
+{	
+	"SF_MetalCost":30,
+	"SF_HeavyMachineryCost":1,
+	"SF_CorruptedMetal":1.5,
+	"SF_PristineMetal":2,
+	"SupplyForgingSensorProfileIncreasePercent": 100,
+}

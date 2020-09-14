@@ -3,9 +3,9 @@
 	"SF_MetalCost":30,
 	"SF_HeavyMachineryCost":1,
 	#Just don't set those two above to zero or less. Because... you can't really set it to zero without the whole thing bamming and crashing.
-	"SF_CorruptedMetal":0.05,
-	"SF_PristineMetal":0.15,
-	#You know, just don't set it below 1.0, since it'll just make you produce LESS supply for having those nanoforges.
+	"SF_CorruptedMetal":0.10,
+	"SF_PristineMetal":0.25,
+	#This is like the modifier that messes with the... bonus modifiers.
 	
 	"SupplyForgingSensorProfileIncreasePercent": 100,
 

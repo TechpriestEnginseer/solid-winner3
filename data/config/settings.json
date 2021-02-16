@@ -1,11 +1,15 @@
 {	
-	"SF_MetalConversionRate": 1.0,
+	"SF_MetalConversionRate": 1.0, #This equates to 3 Supplies! Do some math for once!
 	"SF_MetalCost":30,
 	"SF_HeavyMachineryCost":1,
 	#Just don't set those two above to zero or less. Because... you can't really set it to zero without the whole thing bamming and crashing.
 	"SF_CorruptedMetal":0.10,
-	"SF_PristineMetal":0.25,
+	"SF_PristineMetal":0.30,
+	"SF_SalvageGantry":0.40,
 	#This is like the modifier that messes with the... bonus modifiers.
+	
+	"SF_Input":true, # Should the modifier affect the input? (Metal and Heavy Machinery Cost)
+	"SF_Output":true, # Should the modifier affect the output? (Supply)
 	
 	"SupplyForgingSensorProfileIncreasePercent": 100,
 

@@ -3,9 +3,9 @@
 	"name":"Supply Forging",
 	"author":"Techpriest",
 	"utility": "true",
-	"version":"1.4",
+	"version":"1.41",
 	"description":"Adds an ability that allows you to forge supplies from metal.",
-    "gameVersion":"0.9.1a",
+    "gameVersion":"0.95a-RC8",
 	"jars":["jars/SupplyForge.jar"],
     "modPlugin":"data.plugins.SFPlugin",
 }

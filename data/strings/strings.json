@@ -1,0 +1,17 @@
+{
+	"supplyforging":{
+		"1":"Smelt Metals using Heavy Machinery into Supplies.",
+		"2":"are smelting",
+		"3":"can smelt",
+		"4":"Your fleet's autoforges %s %s units of Metal with %s units of Heavy Machinery to create %s Supplies on a daily basis.",
+		"5":"Civilian ships and salvaging bonuses are improving the process of forging supplies by", #Civilian ships and salvaging bonuses are improving the process of forging supplies by %s, THERE IS NO SPACE HERE YES THE SPACE IS PROVIDED IN CODE
+		"6":"You don't have a bonus right now that can hasten the process.",
+		"7":"Additionally consuming %s %s.", #Additionally using 50 food.
+		"8":"Increases the range at which the fleet can be detected by %s.",
+		"9":"Out of Resources",
+		"10":"Full of Supplies",
+		"11":"Out of ", #space intentional, out of food
+		"12":"Out of Metals or Heavy Machinery",
+		"13":"Full of Supplies",
+	},
+}

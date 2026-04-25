@@ -1,0 +1,20 @@
+Version 1.5/1.5a/1.5b
+* Made it easier to translate
+* Scales with amount of civilian ships and salvage bonuses.
+
+Version 1.4
+* Added some config lines in setting.json
+* Added some setting.json stuff, I forgot really optimizes the game.
+* Ships with Salvage Gantry now provides a modifier of +40%.
+* Pristine Nanoforge increased from +25% to +30%.
+
+Version 1.3
+* Reworked forging process: increasing nanoforges no longer convert more supplies from metal, but rather convert more metal into supplies. Example: With 3 pristine nanoforges, the former created 4.35 supplies from 30 metal and 1 heavy machinery. The new one now creates 5.25 supplies from 52.5 metal and 1.75 heavy machines.
+* Corrupted Nanoforge increased from +5% to +10%.
+* Pristine Nanoforge increased from +15% to +25%.
+
+Version 1.2
+* Nanoforges no longer does a one-time increase to your supply forging but at a linear rate of +5% per corrupted and +15% per pristine (from +50% and +100%). This bonus is capped at the # of ships you have in your fleet.
+
+Version 1.1
+* Added some config lines in setting.json

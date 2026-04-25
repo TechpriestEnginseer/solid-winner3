@@ -5,7 +5,8 @@
     "modVersion":
     {
         "major":1,
-        "minor":5b,
+        "minor":5,
+		"patch":b,
     },
 	"starsectorVersion":"0.98a-RC8",
 	"directDownloadURL":"https://github.com/TechpriestEnginseer/solid-winner3/releases/download/1.5b/Supply.Forging.zip",
